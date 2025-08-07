@@ -10,7 +10,6 @@ Durante os dias da imersão, trabalhei com:
 - 📊 Visualização de dados com gráficos interativos e personalizados
 - 📈 Análise exploratória de dados (EDA)
 - 🐍 Programação em Python com Pandas, Seaborn e Matplotlib
-- 🧠 Interpretação de dados reais e construção de insights
 - 🧼 Identificação de valores nulos e preenchimento de dados faltantes
 
 
